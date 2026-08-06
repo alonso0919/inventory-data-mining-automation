@@ -1,0 +1,12 @@
+# Salidas generadas por corridas reales (solo se versiona ejemplo_salida/muestra)
+ejemplo_salida/procesado/
+ejemplo_salida/reportes/
+
+# Cualquier Excel/PDF real que se coloque aqui para pruebas locales
+datos_demo/*.xlsx.bak
+*.xlsx.tmp
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
